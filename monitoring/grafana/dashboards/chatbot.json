@@ -1,0 +1,40 @@
+{
+  "dashboard": {
+    "title": "Chatbot Monitoring",
+    "panels": [
+      {
+        "title": "Request Rate",
+        "type": "graph",
+        "datasource": "Prometheus",
+        "targets": [
+          {
+            "expr": "rate(chatbot_request_total[5m])",
+            "legendFormat": "{{endpoint}}"
+          }
+        ]
+      },
+      {
+        "title": "Response Time",
+        "type": "graph",
+        "datasource": "Prometheus",
+        "targets": [
+          {
+            "expr": "rate(chatbot_response_time_seconds_sum[5m]) / rate(chatbot_response_time_seconds_count[5m])",
+            "legendFormat": "{{endpoint}}"
+          }
+        ]
+      },
+      {
+        "title": "Memory Usage",
+        "type": "gauge",
+        "datasource": "Prometheus",
+        "targets": [
+          {
+            "expr": "memory_usage_bytes / 1024 / 1024",
+            "legendFormat": "MB"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "vietnamese-food-chatbot",
+  "version": "1.0.0",
+  "author": {
+    "name": "VG-PA",
+    "email": "giangbv92@gmail.com",
+    "url": "https://github.com/buivangiang-12148701"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buivangiang-12148701/vietnamese-food-chatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buivangiang-12148701/vietnamese-food-chatbot/issues"
+  },
+  "homepage": "https://github.com/buivangiang-12148701/vietnamese-food-chatbot#readme",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
