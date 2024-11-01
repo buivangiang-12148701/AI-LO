@@ -7,7 +7,7 @@ Chatbot thông minh về ẩm thực Việt Nam với khả năng tự học và
 **VG-PA**
 
 - GitHub: [@buivangiang-12148701](https://github.com/buivangiang-12148701)
-- Email: giangbv92@gmail.com
+- Email: **\*\*\*\***\*\*\*\***\*\*\*\***@gmail.com
 
 ## 📋 Tính Năng Chính
 
@@ -1333,14 +1333,14 @@ vietnamese_food_chatbot/
 
 ## 📝 License
 
-Copyright © 2024 VG-PA (giangbv92@gmail.com)
+Copyright © 2024 VG-PA (**\*\*\*\***\*\*\*\***\*\*\*\***@gmail.com)
 
 MIT License - Xem [LICENSE.md](LICENSE.md)
 
 ## 📫 Support & Contact
 
 - **Author**: VG-PA
-- **Email**: giangbv92@gmail.com
+- **Email**: **\*\*\*\***\*\*\*\***\*\*\*\***@gmail.com
 - **GitHub**: [@buivangiang-12148701](https://github.com/buivangiang-12148701)
 - **Issues**: [GitHub Issues](https://github.com/buivangiang-12148701/vietnamese-food-chatbot/issues)
 

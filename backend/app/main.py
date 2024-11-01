@@ -6,7 +6,7 @@ app = FastAPI(
     version="1.0.0",
     contact={
         "name": "VG-PA",
-        "email": "giangbv92@gmail.com",
+        "email": "**********@gmail.com",
         "url": "https://github.com/buivangiang-12148701"
     },
     license_info={

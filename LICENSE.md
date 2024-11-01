@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 VG-PA (giangbv92@gmail.com)
+Copyright (c) 2024 VG-PA (**\*\***\*\***\*\***@gmail.com)
 GitHub: @buivangiang-12148701
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
