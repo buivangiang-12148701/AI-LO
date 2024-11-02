@@ -31,9 +31,9 @@ Chatbot thông minh về ẩm thực Việt Nam với khả năng tự học và
 
 1. Clone repository:
    bash
-   git clone https://github.com/buivangiang-12148701/vietnamese-food-chatbot.git
+   git clone https://github.com/buivangiang-12148701/AI-LO.git
    cd vietnamese-food-chatbot
-2. Chạy script cài đặt:
+3. Chạy script cài đặt:
    bash
    python install.py
 
